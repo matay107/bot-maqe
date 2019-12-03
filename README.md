@@ -1,5 +1,6 @@
 # bot-maqe
-bot maqe
+MAQE Homework Challenge - MAQE Bot
+bot maqe https://maqe.github.io/maqe-bot.html
 # MAQE Homework Challenge
 ### Installation
 ```sh
